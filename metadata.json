@@ -1,0 +1,8 @@
+{
+  "name": "WebRTC Local Video Call System",
+  "description": "A local area network video call system designed for educational monitoring, allowing teachers to discover and initiate two-way video calls with registered student devices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
